@@ -4,7 +4,7 @@ A simple consol-based restaurant billing program written in C. It lets you gener
 
 ## Features
 
-- **Generate invoice:** you can search by invoice number and enter your name thereafter the system will require you to enter the name of the the customer, ordered items, and the system will  calculates the total.
+- **Generate invoice:** you can search by invoice number and thereafter the system will require to enter your name, ordered items, and will  calculates the total.
 - **Show all invoices that have been made:** list every invoice that has been saved.
 - **Search invoice:** find an invoice by customer name.
 
