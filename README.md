@@ -1,4 +1,4 @@
-# Banking Mini App
+# Restaurant Mini App
 
 A simple consol-based restaurant billing program written in C. It lets you generate customer invoices, view all saved invoices  and search for a specific invoice.
 
